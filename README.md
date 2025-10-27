@@ -11,6 +11,16 @@ clang main.c tm.c stack.c -o tm_test # if you have clang installed
 ./tm_test
 ```
 
+##### Paper Reference
+
+- Authors: Vladik Kreinovich and Olga Kosheleva 
+T- itle: A Turing Machine Is Just a Finite Automaton with Two Stacks: A Comment on Teaching Theory of Computation 
+- Source/Publication: Published in the Proceedings of the 8th International Scientific-Practical Conference "Mathematical Education in Schools and Universities: Innovations in the Information Space" MATHEDU 2018 
+- Location and Date of Conference: Kazan, Russia, October 17-21, 2018 
+- Pages: pp. 152-156 
+- Technical Report Number (UTEP): UTEP-CS-18-54 
+- Year: 2018
+
 ## Theory
 
 [Core Theory](theory.md)
